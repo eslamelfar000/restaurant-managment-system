@@ -1,0 +1,213 @@
+{
+  "common": {
+    "dashboard": "Dashboard",
+    "courses": "Courses",
+    "pathways": "Pathways",
+    "library": "Library",
+    "my_learning": "My Learning",
+    "certifications": "Certifications",
+    "analytics": "Analytics",
+    "assignments": "Assignments",
+    "community": "Community",
+    "help_center": "Help Center",
+    "logout": "Logout",
+    "search_placeholder": "Search for courses or files...",
+    "loading": "Loading...",
+    "course_not_found": "Course not found",
+    "welcome": "Welcome back",
+    "suggested_courses": "Suggested Learning Paths",
+    "view_all": "View All"
+  },
+  "dashboard": {
+    "welcome_banner": {
+      "title": "Welcome back, {{userName}} 👋",
+      "description": "You're doing great. You've completed {{progress}} % of your current learning path this month. Keep it up to achieve your goals.",
+      "certificates": "Certificates",
+      "trainingHours": "Training Hours"
+    },
+    "weekly_activity": "Weekly Activity",
+    "hour": "Hour",
+    "hours": "Hours",
+    "certificationCTA": {
+      "alert": "Alert",
+      "title": "Your certificates are about to expire!",
+      "description": "You're very close to getting your certificate. Complete the course now and get your accredited certificate.",
+      "button": "Update Now"
+    }
+  },
+  "courses": {
+    "suggestedCourses": "Suggested Learning Paths",
+    "lastUpdate": "Last updated 2 days ago",
+    "viewAll": "View All",
+    "description": "Description",
+    "whatYouWillLearn": "What You Will Learn",
+    "courseContent": "Course Content",
+    "courseIncludes": "Course Includes",
+    "price": "Price",
+    "discount": "Discount",
+    "duration": "Duration",
+    "students": "Students",
+    "status": "Status",
+    "open": "Open",
+    "closed": "Closed",
+    "subscribed": "Subscribed",
+    "enrollNow": "Enroll Now",
+    "startLearning": "Start Learning"
+  },
+  "landing": {
+    "nav": {
+      "home": "Home",
+      "features": "Features",
+      "pricing": "Pricing",
+      "login": "Login",
+      "get_started": "Get Started"
+    },
+    "hero": {
+      "badge": "Trusted by 500+ Top Restaurants",
+      "title_top": "Taste the",
+      "title_bottom": "Future",
+      "subtitle": "Stop juggling multiple apps. Manage your entire restaurant empire from a single, unified, high-performance interface.",
+      "cta_join": "Join the Elite",
+      "cta_scroll_top": "Scroll",
+      "cta_scroll_bottom": "Down",
+      "preview_title": "Omni-Channel Control",
+      "preview_subtitle": "Manage everything from a single glass pane."
+    },
+    "features": {
+      "badge": "Superior Technology",
+      "title_top": "Engineered For",
+      "title_bottom": "Peak Performance",
+      "subtitle": "We've distilled a decade of restaurant expertise into a single, cohesive operating system.",
+      "items": {
+        "ai_menu": {
+          "title": "AI Menu Optimization",
+          "description": "Our neural networks analyze sales data to suggest the most profitable menu engineering strategies automatically."
+        },
+        "global": {
+          "title": "Global Scalability",
+          "description": "Scale from one food truck to a global empire with zero infrastructure friction."
+        },
+        "sync": {
+          "title": "Real-time Sync",
+          "description": "Every order, everywhere, updated in 50ms."
+        },
+        "staffing": {
+          "title": "Smart Staffing",
+          "description": "Predictive scheduling based on historical traffic and weather patterns."
+        },
+        "enterprise": {
+          "title": "Enterprise Grade",
+          "description": "The same security protocols used by global banks, now for your kitchen."
+        }
+      },
+      "learn_more": "Learn more"
+    },
+    "pricing": {
+      "badge": "Pricing Plans",
+      "title_top": "Investment In",
+      "title_bottom": "Your Growth",
+      "subtitle": "Predictable pricing for every stage of your restaurant's lifecycle.",
+      "highlight": "Market Leader",
+      "button": "Join Now",
+      "mo": "mo",
+      "custom": "Custom",
+      "bundles": {
+        "starter": {
+          "name": "Starter",
+          "description": "Perfect for boutiques and small cafes."
+        },
+        "pro": {
+          "name": "Professional",
+          "description": "Advanced tools for high-volume bistros."
+        },
+        "enterprise": {
+          "name": "Enterprise",
+          "description": "Global solutions for major franchises."
+        }
+      }
+    },
+    "cta": {
+      "badge": "The Final Frontier",
+      "title_top": "Ready To",
+      "title_bottom": "Rule The Industry?",
+      "subtitle": "Stop settling for yesterday's tools. Experience the platform that's redefining what's possible in hospitality.",
+      "button_primary": "Get Started Now",
+      "button_secondary": "Book A Demo"
+    },
+    "footer": {
+      "slogan": "We're not just a platform. We're the infrastructure for the next generation of dining experiences.",
+      "copyright": "© 2024 RestaurantOS — Worldwide",
+      "sections": {
+        "platform": "Platform",
+        "resources": "Resources",
+        "company": "Company"
+      }
+    }
+  },
+  "bundle_details": {
+    "back": "Back to selection",
+    "badge": "Elite Tier",
+    "title_top": "Elevate Your",
+    "title_bottom": "Empire",
+    "subtitle": "You're one step away from joining the most advanced dining network in the world.",
+    "active_plan": "Active Plan",
+    "testimonial": {
+      "quote": "\"The only platform that keeps up with our speed.\"",
+      "author": "Marco · CEO of Gourmet Group"
+    },
+    "form": {
+      "title": "Business Intelligence",
+      "description": "Initialize your secure digital workspace and super admin credentials.",
+      "labels": {
+        "restaurant": "Restaurant Identity",
+        "name": "Full Name",
+        "phone": "Direct Line",
+        "email": "Enterprise Email",
+        "password": "Security Key",
+        "confirm_password": "Verify Key"
+      },
+      "placeholders": {
+        "restaurant": "e.g. ULTRA DINING LAB",
+        "name": "Alex Sterling",
+        "phone": "+1 (000) 000-0000",
+        "email": "admin@enterprise.io",
+        "password": "••••••••",
+        "confirm_password": "••••••••"
+      },
+      "submit": "Launch Enterprise OS",
+      "submitting": "Provisioning...",
+      "encryption": "Secured with 256-bit encryption"
+    },
+    "validation": {
+      "restaurant_min": "Restaurant name must be at least 3 characters",
+      "name_min": "Name must be at least 3 characters",
+      "email_invalid": "Invalid email address",
+      "phone_min": "Phone number must be at least 10 digits",
+      "phone_invalid": "Invalid phone number format",
+      "password_min": "Password must be at least 8 characters",
+      "password_mismatch": "Passwords do not match"
+    },
+    "toast_success": "Welcome to the elite! Your account is being provisioned."
+  },
+  "system_owner": {
+    "login": {
+      "title": "System Owner",
+      "subtitle": "Secure Terminal Access",
+      "email_label": "Command Center Email",
+      "email_placeholder": "admin@restaurantos.io",
+      "password_label": "Access Key",
+      "password_placeholder": "••••••••••••",
+      "submit": "Initialize Login",
+      "authenticating": "Authenticating...",
+      "return_to_surface": "Return to Surface",
+      "version": "RestaurantOS / Infrastructure / v1.0.4",
+      "toast_success": "Authorized. Welcome back, Architect."
+    },
+    "nav": {
+      "home": "Dashboard Overview",
+      "organizations": "Tenant Organizations",
+      "plans": "Subscription Bundles",
+      "settings": "Global Config"
+    }
+  }
+}
