@@ -1,7 +1,7 @@
 import { atom } from "recoil";
 
 const savedLang = localStorage.getItem("language") as "ar" | "en" | null;
-const defaultLang = savedLang === "ar" || savedLang === "en" ? savedLang : "ar";
+const defaultLang = savedLang === "ar" || savedLang === "en" ? savedLang : "en";
 
 export const languageAtom = atom<"ar" | "en">({
   key: "language",
